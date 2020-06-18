@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Filer.qml</file>
+        <file>MyCamera.qml</file>
+        <file>MyButton0.qml</file>
+        <file>Draw0.qml</file>
+    </qresource>
+</RCC>
