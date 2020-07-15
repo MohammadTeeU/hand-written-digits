@@ -1,6 +1,6 @@
 <h1> Hand Written Digit By Computer</h1>
 <hr></hr>
-<h2>idea</h2>Handwritten recognition enables us to convert the
+<h2>Idea</h2>Handwritten recognition enables us to convert the
 handwriting documents into digital form.
 Set an image that is content a handwritten digits then detects it, and converts to ASCII
 that can be known by the computer.
@@ -12,7 +12,7 @@ the accuracy and matches of detects <code>90%-98%</code>, can obtain this by tes
   coded by
 <code>  : Qt/c++ with OpenCv</code></h6>
 <hr/>
-<h2>requirements:</h2>
+<h2>Requirements:</h2>
 
 <ul>
   <li><code>Qt5</code> (http://qt.io)</li>
