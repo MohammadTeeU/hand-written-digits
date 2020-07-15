@@ -4,7 +4,8 @@
 handwriting documents into digital form.
 Set an image that is content a handwritten digits then detects it, and converts to ASCII
 that can be known by the computer.
-it's the hard task of a computer because there are many types of handwritten digits.
+
+It's the hard task of a computer because there are many types of handwritten digits.
 the accuracy and matches of detects <code>90%-98%</code>, can obtain this by test a knowns of samples then check the correct average results.
 <h6>
   <br>
