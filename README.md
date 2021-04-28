@@ -26,4 +26,23 @@ the accuracy and matches of detects <code>90%-98%</code>, can obtain this by tes
   </li>
 </ul>
 
+<hr/>
+<h2>Real example:</h2>
 
+Draw Number on canvas:<br>
+![Draw](../master/screenshots/1.png)
+
+Click on test to get result:<br>
+![Draw](../master/screenshots/2.png)
+
+Select Image form local storage:<br>
+![Select](../master/screenshots/3.png)
+
+Get result:<br>
+![Select](../master/screenshots/4.png)
+
+Take picture from Camera:<br>
+![Take](../master/screenshots/5.png)
+
+Get result:<br>
+![Take](../master/screenshots/6.png)
