@@ -1,4 +1,4 @@
-# Hand Written Digit By Computer
+# Hand Written Digit Recognition
 
 ## idea of works
 
